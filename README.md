@@ -3,8 +3,13 @@
 > **Revolutionizing emergency services with AI-driven severity prediction and real-time coordination.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live: Vercel](https://img.shields.io/badge/Live-rapidaid-xi.vercel.app-black?logo=vercel)](https://rapidaid-xi.vercel.app)
 [![Tech Stack: MERN](https://img.shields.io/badge/Stack-MERN-blue.svg)](https://www.mongodb.com/mern-stack)
 [![AI: Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange.svg)](https://deepmind.google/technologies/gemini/)
+
+## 🌐 Live Demo
+
+**Production:** [https://rapidaid-xi.vercel.app](https://rapidaid-xi.vercel.app) (auto-deploys on push to `main`)
 
 ---
 
